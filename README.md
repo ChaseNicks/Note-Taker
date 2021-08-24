@@ -2,16 +2,16 @@
 
 # Table of Contents
 
-  🔎 [Description](https://github.com/ChaseNicks/Team_Profile_Generator#Description)
+  🔎 [Description](https://github.com/ChaseNicks/Note-Taker#Description)
 
 
-  🔎 [Installation Intructions](https://github.com/ChaseNicks/Team_Profile_Generator#Installation-Instructions) 
+  🔎 [Installation Intructions](https://github.com/ChaseNicks/Note-Taker#Installation-Instructions) 
 
 
-  🔎 [Screenshots](https://github.com/ChaseNicks/Team_Profile_Generator#Screenshots)
+  🔎 [Screenshots](https://github.com/ChaseNicks/Note-Taker#Screenshots)
 
 
-  🔎 [Questions](https://github.com/ChaseNicks/Team_Profile_Generator#Questions)
+  🔎 [Questions](https://github.com/ChaseNicks/Note-Taker#Questions)
 
 # Description
 
