@@ -15,7 +15,7 @@
 
 # Description
 
-  A full-stack application that allows users to take notes on anything and everything, they're able to save reference the notes at a later date or delete.
+  A full-stack application that allows users to take notes on anything and everything, they're able to save and reference the notes at a later date or delete.
 
 # Technologies
 
