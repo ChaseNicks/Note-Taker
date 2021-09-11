@@ -40,7 +40,7 @@
  
 # Live Site
 
-[Live-Site](https://polar-peak-60181.herokuapp.com/)
+[Click here to view live site!](https://polar-peak-60181.herokuapp.com/)
 
 # Screenshots
 
